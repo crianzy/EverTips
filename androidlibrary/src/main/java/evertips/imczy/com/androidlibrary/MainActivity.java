@@ -1,4 +1,4 @@
-package evertips.imczy.com.evertips;
+package evertips.imczy.com.androidlibrary;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
